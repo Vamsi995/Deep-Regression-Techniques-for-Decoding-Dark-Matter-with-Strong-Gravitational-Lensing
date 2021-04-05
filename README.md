@@ -1,5 +1,15 @@
 # Deep-Regression-Techniques-for-Decoding-Dark-Matter-with-Strong-Gravitational-Lensing
 
+
+## Getting Started
+
+These are developed on google colab and have been downloaded as .ipynb files. So apologies for using colab directory paths in the code.
+
+### Prerequisites
+
+The drive link for the data and the model weights - https://drive.google.com/drive/folders/1zB1d1FmBObQWcateWo7Tlh9TOFohHshs?usp=sharing
+
+
 # Theory
 
 ## About Gravitational Lensing
@@ -35,3 +45,16 @@ The bigger dark matter envelope might have some smaller subhalos which consists 
 One of the distinguising features among all the types of dark matter proposed comes with the substructure these types can create. Different types of dark matter models have different substructure. WIMP DM forms spherical subhalos, where as wam and hot DM tend to wash out substrucuture on small scales.
 
 Superfluid and condensate dark matter form some exotic substructure having one dimesional line densities called vortices and two dimensional disks.
+
+
+## Regression Approach
+
+For the regression part I have first made a Deep Multi Layered Perceptrona (MLP) and then trained the given data, after preprocessing the data appropriately. And my second approach was similar to what was mentioned in most of the papers, where they trained ResNet18 on the simulated images for classification tasks. But i slightly tweaked the model to make use of it for regression and hence trained it on a limited number of epochs over the entire dataset after preprocessing and data augumentation.
+
+
+# Built With
+
+* [PyAutoLens](https://pyautolens.readthedocs.io/en/latest/) - PyAutoLens is open source software for the analysis and modeling of strong gravitational lenses.
+* [Python](https://www.python.org/) - Programming Language
+* [PyTorch](https://pytorch.org/) - Deep Learning Framework
+
