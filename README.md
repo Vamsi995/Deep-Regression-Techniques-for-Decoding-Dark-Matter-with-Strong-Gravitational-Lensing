@@ -8,8 +8,8 @@ One of the consequences of general relativity is massive objects (such as a clus
 
 Strong lensing is the observed distortion of background galaxies into arcs when their light passes through such a gravitational lens. By measuring the distortion geometry, the mass of the intervening cluster can be obtained. In the dozens of cases where this has been done, the mass-to-light ratios obtained correspond to the dynamical dark matter measurements of clusters.
 
-[](/images/gravlens.jpg)
-[](/images/lensing1.jpg)
+![](/images/gravlens.jpg)
+![](/images/lensing1.jpg)
 
 ## About Dark Matter
 
@@ -17,7 +17,7 @@ Visible matter in the universe only forms a very small fraction of all the matte
 
 From the studies of [Vera Rubin](https://www.researchgate.net/publication/333131297_Vera_Rubin_and_the_hypothesis_of_dark_matter_existence) it is concluded that most of the dark matter form a halo around the galaxy.
 
-[](/images/halo.jpeg)
+![](/images/halo.jpeg)
 
 ## Dark Matter and Strong Lensing
 
@@ -25,7 +25,7 @@ One of the observational evidence of dark matter is through strong galay - galax
 
 [The dark matter of gravitational lensing](https://arxiv.org/pdf/1001.1739.pdf)
 
-[](/images/halolens.png)
+![](/images/halolens.png)
 
 
 ## Dark Matter Substructure
